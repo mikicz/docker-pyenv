@@ -1,6 +1,6 @@
-FROM ubuntu:16.04
+FROM ubuntu:22.04
 
-MAINTAINER Matthew Tardiff <mattrix@gmail.com>
+MAINTAINER Mikuláš Poul <mikulaspoul@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
